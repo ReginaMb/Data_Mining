@@ -7,6 +7,8 @@
   [Ejercicios Python](https://github.com/ReginaMb/Data_Mining/blob/main/Python_1851448.ipynb)
   
   [Ejercicio Limpieza](https://github.com/ReginaMb/Data_Mining/blob/main/Ej_Limpieza_1.ipynb)
+  
+  [Avance PIA 1](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Avance1_PIA_Equipo1.ipynb)
 ## Fase 2
 ## Fase 3
 ## Fase 4
