@@ -10,5 +10,6 @@
   
   [Avance PIA 1](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Avance1_PIA_Equipo1.ipynb)
 ## Fase 2
+  [Presentación Regresión Lineal](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Presentación_Regresión%20Lineal_N.01.pdf)
 ## Fase 3
 ## Fase 4
