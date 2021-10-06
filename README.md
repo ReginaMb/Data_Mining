@@ -13,5 +13,9 @@
   [Presentación Regresión Lineal](https://github.com/CesarDominguez27/Mineria_de_datos/blob/main/Presentación_Regresión%20Lineal_N.01.pdf)
   
   [Notebook Regresión Lineal](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Regresion_Lineal_Equipo1.ipynb)
+  
+  [Visualización Equipo 1](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Visualizacion_Equipo1.ipynb)
+  
+  [Segundo Avance PIA]
 ## Fase 3
 ## Fase 4
