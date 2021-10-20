@@ -20,4 +20,4 @@
   
   [Técnicas de Minería](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Ejercicios_Tecnicas_Equipo1.ipynb)
 ## Fase 3
-## Fase 4
+  [Notebook Final](https://github.com/LagosJA/Mineria_de_Datos/blob/main/Notebook_PIA_Equipo1.ipynb)
